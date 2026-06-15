@@ -13,7 +13,7 @@
 
 [![Descargar .pbix](https://img.shields.io/badge/⬇️%20Descargar%20Dashboard-Power%20BI%20(.pbix)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/migueljerico/powerbi-dashboard-urban-coffee/raw/main/Ejercicio_Practico_Visualizacion_Power_BI_Miguel_Jerico.pbix)
 
-[![Ver Release v1.0](https://img.shields.io/badge/📦%20Release-v1.0-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljerico/powerbi-dashboard-urban-coffee/releases/tag/v1.0)
+[![Ver Release v1.0](https://img.shields.io/badge/📦%20Release-v1.0-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/migueljerico/powerbi-dashboard-academia-imagine/releases/tag/v1.0)
 
 > Requiere **Microsoft Power BI Desktop** (descarga gratuita en [powerbi.microsoft.com](https://powerbi.microsoft.com/es-es/desktop/))
 
