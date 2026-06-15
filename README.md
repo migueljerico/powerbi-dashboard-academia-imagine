@@ -85,7 +85,7 @@ Cursos[ID_Curso] sobre Matriculas[ID_Curso].
 - **1 segmentadores** por Categoría
 - Todos los gráficos se interconectan al seleccionar cualquier filtro
 
--  **1 marcador** implementado mediante botón de revertir
+-  **1 botón para reestablecer vinculando con un marcador llamado Estado Inicial** 
 - Para eliminar los filtros aplicados.
 ---
 
