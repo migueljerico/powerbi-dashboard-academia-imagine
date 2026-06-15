@@ -119,7 +119,7 @@ Cursos[ID_Curso] sobre Matriculas[ID_Curso].
 
 Este ejercicio forma parte del programa de formación en **Análisis de Datos**, dentro del módulo **Análisis de Datos con Excel: Power Query, Power Pivot y Power BI**. El objetivo es desarrollar competencias en modelado de datos (modelo estrella) y diseño de dashboards ejecutivos interactivos.
 
-**Ejercicio relacionado:** [Dashboard Ejecutivo Power BI — Urban Coffee](https://github.com/migueljerico/data-studio-dashboard-urban-coffee) — misma herramienta, otro caso de negocio.
+**Ejercicio relacionado:** [Dashboard Ejecutivo Power BI — Urban Coffee](https://github.com/migueljerico/powerbi-dashboard-urban-coffee) — misma herramienta, otro caso de negocio.
 ---
 
 <p align="center">
