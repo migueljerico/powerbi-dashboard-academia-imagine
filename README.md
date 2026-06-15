@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Estado](https://img.shields.io/badge/Estado-Completado-4CAF50?style=for-the-badge)
-![Tipo](https://img.shields.io/badge/Práctica-Análisis%20de%20Datos%20con%20Excel:%20Power%20Query%20Power%20Pivot%20y%20Power%20BI-FF6B6B?style=for-the-badge)
+![Tipo](https://img.shields.io/badge/Práctica-Análisis%20de%20Datos%20con%20Excel:%20Power%20Query%20,%20Power%20Pivot%20y%20Power%20BI-FF6B6B?style=for-the-badge)
 
 > **Ejercicio Práctico — Análisis de Datos con Excel: Power Query, Power Pivot y Power BI.**  
 > Caso de negocio: cadena de cafeterías ficticia **Academia Imagine**
